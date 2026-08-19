@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados e credenciais
+.env
+*.env
+data/
+*.csv
+*.parquet
+*.db
+*.sqlite3
+
+# Editor / SO
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
