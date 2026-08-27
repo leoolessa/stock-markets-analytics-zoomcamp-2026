@@ -2,7 +2,7 @@
 
 Objetivo geral: baixar dados financeiros de fontes variadas e fazer cálculos/análises simples.
 
-- Prazo: **2026-09-02**
+- Prazo: **segunda-feira, 14 de setembro de 2026, 23:59 (horário de Dublin, GMT+1)** — confirmado no [anúncio do Telegram](https://t.me/stockanalyticszoomcamp/72)
 - Enunciado oficial: https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp/blob/main/cohorts/2026/homework1.md
 - Submissão: https://courses.datatalks.club/sma-zoomcamp-2026/homework/hw01
 - Leaderboard: https://courses.datatalks.club/sma-zoomcamp-2026/leaderboard
