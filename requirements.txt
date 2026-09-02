@@ -1,5 +1,3 @@
-# Bibliotecas base usadas ao longo do curso.
-# Vá ajustando conforme cada módulo pedir pacotes específicos.
 numpy
 pandas
 matplotlib
