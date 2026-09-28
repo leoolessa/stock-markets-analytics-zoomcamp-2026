@@ -7,3 +7,6 @@ scikit-learn
 jupyter
 python-dotenv
 requests
+scipy
+pyarrow
+gdown
